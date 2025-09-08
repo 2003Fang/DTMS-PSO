@@ -1,0 +1,2 @@
+# DTMS-PSO-Adaptive-Trend-Monitoring-System-for-Online-Portfolio-Selection
+This repository hosts the MATLAB code for the experimental section of the paper "An Adaptive Trend Monitoring System Using Particle Swarm Optimization." It implements the DTMS-PSO system for online portfolio selection, which uses Particle Swarm Optimization (PSO) to dynamically adjust parameters according to recent market performance.
