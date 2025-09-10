@@ -29,7 +29,7 @@ The crucial contributions of this study are as follows:
 - We develop a novel adaptive trend monitoring system using particle swarm optimization, which comprehensively analyzes market dynamics and responds to market conditions through dynamic mechanisms with targeted adjustments. Extensive experiments on five financial datasets demonstrate the system's superior effectiveness. Compared to 10 state-of-the-art OLPS benchmarks, DTMS-PSO exhibits significant profit potential and risk mitigation capabilities.
 
 ## 4. Flowchart
-<img width="421" height="623" alt="image" src="https://github.com/user-attachments/assets/99991f38-5afe-46c4-ba8f-16f981c446d6" />
+<img width="405" height="616" alt="image" src="https://github.com/user-attachments/assets/0ec13b82-e8ea-44ba-a2ac-08fb2a501078" />
 Fig.1 The DTMS-PSO system flow
 
 ## 5. Results Visualization
