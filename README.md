@@ -29,25 +29,25 @@ The crucial contributions of this study are as follows:
 - We develop a novel adaptive trend monitoring system using particle swarm optimization, which comprehensively analyzes market dynamics and responds to market conditions through dynamic mechanisms with targeted adjustments. Extensive experiments on five financial datasets demonstrate the system's superior effectiveness. Compared to 10 state-of-the-art OLPS benchmarks, DTMS-PSO exhibits significant profit potential and risk mitigation capabilities.
 
 # 4. Flowchart
-<img width="405" height="616" alt="image" src="https://github.com/user-attachments/assets/0ec13b82-e8ea-44ba-a2ac-08fb2a501078" />
+<img width="522" height="796" alt="image" src="https://github.com/user-attachments/assets/4aaab32c-2a7a-402e-b1da-f44507861260" />
 Fig.1 The DTMS-PSO system flow
 
 # 5. Results Visualization
 
-<img width="1049" height="727" alt="image" src="https://github.com/user-attachments/assets/aa2a098f-575c-402c-99c1-db505d0f45ae" />
+<img width="1214" height="664" alt="image" src="https://github.com/user-attachments/assets/c3de926c-8480-4072-9e7d-615a82b94742" />
 Fig.2 the cumulative wealth trends on SP500
 
-<img width="1063" height="716" alt="image" src="https://github.com/user-attachments/assets/9c8813b6-98a6-4e3a-a1d5-6a8441772c18" />
+<img width="1317" height="727" alt="image" src="https://github.com/user-attachments/assets/87a57a30-88c1-454b-a82d-0428584eaa3c" />
 Fig.3 the cumulative wealth trends on DJIA
 
-<img width="1059" height="726" alt="image" src="https://github.com/user-attachments/assets/5f96a0ef-60e5-48e1-ade6-948d089875c3" />
+<img width="1370" height="745" alt="image" src="https://github.com/user-attachments/assets/5f0ba4e7-6003-4caf-91a2-116a8a008f7c" />
 Fig.4 the cumulative wealth trends on HK50
 
-<img width="1054" height="707" alt="image" src="https://github.com/user-attachments/assets/f4956125-9cc9-4da2-a364-b588088a2c04" />
+<img width="1347" height="751" alt="image" src="https://github.com/user-attachments/assets/659812c7-d02c-4636-b8b5-562ff23e7f6d" />
 Fig.5 the cumulative wealth trends on HSCIM
 
-<img width="997" height="709" alt="image" src="https://github.com/user-attachments/assets/c529bfb0-af8d-4c02-a7ca-c3c0bc4884b9" />
-\Fig.6 the cumulative wealth trends on NYSE(N)
+<img width="1360" height="783" alt="image" src="https://github.com/user-attachments/assets/6d596b7a-f9c1-48e8-af42-f90e7578b8f0" />
+Fig.6 the cumulative wealth trends on NYSE(N)
 
 # 6. Contact us for cooperation or consultation
 If you have any questions, please contact the author's work email or leave a message in issues. The author will try his best to answer them at his convenience.If you are interested in seeking cooperation, you can also consult this email. Author contact email: 2112464128@e.gzhu.edu.cn
