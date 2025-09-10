@@ -28,11 +28,11 @@ The crucial contributions of this study are as follows:
 - We propose a new parameter optimization strategy where we adopt different particle swarm optimization strategies according to varying recent market performance, overcoming the limitation of traditional investment strategies that rely on a single decision-making mechanism and fail to adapt to dynamic market changes. Specifically, during strong market performance over the past month, our method focuses on fine-tuning optimal solutions within a narrow range. Conversely, when the market performs poorly over the past month, our method address this by rebalancing portfolio allocations and expanding our search to identify superior solutions over a broader range.
 - We develop a novel adaptive trend monitoring system using particle swarm optimization, which comprehensively analyzes market dynamics and responds to market conditions through dynamic mechanisms with targeted adjustments. Extensive experiments on five financial datasets demonstrate the system's superior effectiveness. Compared to 10 state-of-the-art OLPS benchmarks, DTMS-PSO exhibits significant profit potential and risk mitigation capabilities.
 
-## 4. Flowchart
+# 4. Flowchart
 <img width="405" height="616" alt="image" src="https://github.com/user-attachments/assets/0ec13b82-e8ea-44ba-a2ac-08fb2a501078" />
 Fig.1 The DTMS-PSO system flow
 
-## 5. Results Visualization
+# 5. Results Visualization
 
 <img width="1049" height="727" alt="image" src="https://github.com/user-attachments/assets/aa2a098f-575c-402c-99c1-db505d0f45ae" />
 Fig.2 the cumulative wealth trends on SP500
@@ -49,5 +49,5 @@ Fig.5 the cumulative wealth trends on HSCIM
 <img width="997" height="709" alt="image" src="https://github.com/user-attachments/assets/c529bfb0-af8d-4c02-a7ca-c3c0bc4884b9" />
 \Fig.6 the cumulative wealth trends on NYSE(N)
 
-## 6. Contact us for cooperation or consultation
+# 6. Contact us for cooperation or consultation
 If you have any questions, please contact the author's work email or leave a message in issues. The author will try his best to answer them at his convenience.If you are interested in seeking cooperation, you can also consult this email. Author contact email: 2112464128@e.gzhu.edu.cn
