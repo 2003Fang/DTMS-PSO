@@ -14,12 +14,6 @@ The system outperforms 10 state-of-the-art online portfolio selection strategies
 
 Some core components are not publicly available due to patent pending. A full version will be released after the paper is published.
 
-<img width="1049" height="727" alt="image" src="https://github.com/user-attachments/assets/aa2a098f-575c-402c-99c1-db505d0f45ae" />
-<img width="1063" height="716" alt="image" src="https://github.com/user-attachments/assets/9c8813b6-98a6-4e3a-a1d5-6a8441772c18" />
-<img width="1059" height="726" alt="image" src="https://github.com/user-attachments/assets/5f96a0ef-60e5-48e1-ade6-948d089875c3" />
-<img width="1054" height="707" alt="image" src="https://github.com/user-attachments/assets/f4956125-9cc9-4da2-a364-b588088a2c04" />
-<img width="997" height="709" alt="image" src="https://github.com/user-attachments/assets/c529bfb0-af8d-4c02-a7ca-c3c0bc4884b9" />
-
 The system was evaluated on five datasets:
 DJIA, NYSE(N), SP500, HK50, HSCIM
 
@@ -29,4 +23,12 @@ DTMS-PSO achieved:
 
 - Superior Sharpe and Calmar ratios
 
-- Statistically significant outperformance against 10 benchmarks
+- Statistically significant outperformance against 10 benchmark
+
+<img width="1049" height="727" alt="image" src="https://github.com/user-attachments/assets/aa2a098f-575c-402c-99c1-db505d0f45ae" />
+<img width="1063" height="716" alt="image" src="https://github.com/user-attachments/assets/9c8813b6-98a6-4e3a-a1d5-6a8441772c18" />
+<img width="1059" height="726" alt="image" src="https://github.com/user-attachments/assets/5f96a0ef-60e5-48e1-ade6-948d089875c3" />
+<img width="1054" height="707" alt="image" src="https://github.com/user-attachments/assets/f4956125-9cc9-4da2-a364-b588088a2c04" />
+<img width="997" height="709" alt="image" src="https://github.com/user-attachments/assets/c529bfb0-af8d-4c02-a7ca-c3c0bc4884b9" />
+
+s
